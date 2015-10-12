@@ -34,3 +34,6 @@ Options are "Before Cart Table" and After Cart Table".
 
 = 1.0.0 =
 * Stable and working version.
+
+URL: https://wordpress.org/plugins/woo-add-empty-cart/
+Author URL: jomarph.com
